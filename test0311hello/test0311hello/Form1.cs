@@ -20,6 +20,7 @@ namespace test0311hello
         private void button1_Click(object sender, EventArgs e)
         {
             button1.Text = "hello1";
+            //master
         }
 
         private void button2_Click(object sender, EventArgs e)
