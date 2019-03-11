@@ -26,5 +26,10 @@ namespace test0311hello
         {
             button2.Text = "HELLO2";
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            button3.Text = "Hello3";
+        }
     }
 }
